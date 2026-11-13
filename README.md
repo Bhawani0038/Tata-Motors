@@ -171,4 +171,4 @@ To explore the dashboards, open `TATA_POWER_PROJECT.xlsx` in Microsoft Excel 201
 
 
 # Dashboards
-https://github.com/Bhawani0038/Tata-Motors/blob/main/Dashboard%20Images/Screenshot%202026-11-13%20112031.png
+![Dashboard_1](Dashboard Images/Screenshot 2026-11-13 112031.png)
