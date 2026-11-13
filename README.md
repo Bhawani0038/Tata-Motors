@@ -171,4 +171,4 @@ To explore the dashboards, open `TATA_POWER_PROJECT.xlsx` in Microsoft Excel 201
 
 
 # Dashboards
-![Dashboard_1](Dashboard Images/Screenshot 2026-11-13 112031.png)
+![Dashboard 1](<Dashboard Images/Screenshot 2026-11-13 112031.png>)
