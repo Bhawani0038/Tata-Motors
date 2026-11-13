@@ -168,3 +168,7 @@ To explore the dashboards, open `TATA_POWER_PROJECT.xlsx` in Microsoft Excel 201
 
 *Built as a data analyst portfolio project. The data is synthetic and used for learning purposes only.*
 "# Tata-Motors" 
+
+
+# Dashboards
+https://github.com/Bhawani0038/Tata-Motors/blob/main/Dashboard%20Images/Screenshot%202026-11-13%20112031.png
